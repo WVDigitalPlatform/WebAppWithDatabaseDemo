@@ -3,22 +3,28 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "hostingPlanName": {
-      "value": "houssemdellai-service-plan"
+      "value": "wvuk-demo-hosting-plan"
     },
     "administratorLogin": {
-      "value": "houssem"
+      "value": "gilbertn"
     },
     "administratorLoginPassword": {
-      "value": "@Aa123456"
+      "value": "wvukgilbertn990"
     },
     "databaseName": {
       "value": "EmployeesDB"
     },
     "webSiteName": {
-      "value": "houssemdellai-webapp"
+      "value": "wvuk-demo-webapp"
     },
     "sqlserverName": {
-      "value": "houssemdellai-sql"
+      "value": "wvuk-demo-sql-server"
+    },
+    "endIpAddress": {
+      "value": "0.0.0.0"
+    },
+    "startIpAddress": {
+      "value": "0.0.0.0"
     }
   }
 }
