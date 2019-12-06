@@ -19,12 +19,6 @@
     },
     "sqlserverName": {
       "value": "wvuk-demo-sql-server"
-    },
-    "endIpAddress": {
-      "value": "0.0.0.0"
-    },
-    "startIpAddress": {
-      "value": "0.0.0.0"
     }
   }
 }
